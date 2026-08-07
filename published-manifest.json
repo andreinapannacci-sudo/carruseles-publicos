@@ -36,10 +36,30 @@
         "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/13-ago-design-system/slide_06.jpg"
       ],
       "order_inferred": false,
+      "committed": true,
+      "pushed": true,
+      "commit": "016d44e8f9e7904c3bfc8948745de6149182bf8e",
+      "published_at": "2026-08-07T09:08:22"
+    },
+    "20-ago-design-system-ia": {
+      "folder": "20-ago - Design system IA",
+      "slug": "20-ago-design-system-ia",
+      "date": "2026-08-20",
+      "title": "Design system IA",
+      "slide_count": 6,
+      "urls": [
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/20-ago-design-system-ia/slide_01.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/20-ago-design-system-ia/slide_02.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/20-ago-design-system-ia/slide_03.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/20-ago-design-system-ia/slide_04.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/20-ago-design-system-ia/slide_05.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/20-ago-design-system-ia/slide_06.jpg"
+      ],
+      "order_inferred": false,
       "committed": false,
       "pushed": false,
       "commit": null,
-      "published_at": "2026-08-07T09:08:22"
+      "published_at": "2026-08-07T09:08:26"
     }
   }
 }
