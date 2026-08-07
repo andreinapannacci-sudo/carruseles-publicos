@@ -1,0 +1,25 @@
+{
+  "repo": "andreinapannacci-sudo/carruseles-publicos",
+  "carruseles": {
+    "12-ago-diversidad-creativa": {
+      "folder": "12-ago - Diversidad creativa",
+      "slug": "12-ago-diversidad-creativa",
+      "date": "2026-08-12",
+      "title": "Diversidad creativa",
+      "slide_count": 6,
+      "urls": [
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/12-ago-diversidad-creativa/slide_01.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/12-ago-diversidad-creativa/slide_02.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/12-ago-diversidad-creativa/slide_03.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/12-ago-diversidad-creativa/slide_04.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/12-ago-diversidad-creativa/slide_05.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/12-ago-diversidad-creativa/slide_06.jpg"
+      ],
+      "order_inferred": false,
+      "committed": false,
+      "pushed": false,
+      "commit": null,
+      "published_at": "2026-08-07T09:08:18"
+    }
+  }
+}
