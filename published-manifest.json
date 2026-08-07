@@ -16,10 +16,30 @@
         "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/12-ago-diversidad-creativa/slide_06.jpg"
       ],
       "order_inferred": false,
+      "committed": true,
+      "pushed": true,
+      "commit": "5f9e741a62cc44005011ceeef7ae5b62af2f1ff0",
+      "published_at": "2026-08-07T09:08:18"
+    },
+    "13-ago-design-system": {
+      "folder": "13-ago - Design system",
+      "slug": "13-ago-design-system",
+      "date": "2026-08-13",
+      "title": "Design system",
+      "slide_count": 6,
+      "urls": [
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/13-ago-design-system/slide_01.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/13-ago-design-system/slide_02.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/13-ago-design-system/slide_03.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/13-ago-design-system/slide_04.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/13-ago-design-system/slide_05.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/13-ago-design-system/slide_06.jpg"
+      ],
+      "order_inferred": false,
       "committed": false,
       "pushed": false,
       "commit": null,
-      "published_at": "2026-08-07T09:08:18"
+      "published_at": "2026-08-07T09:08:22"
     }
   }
 }
