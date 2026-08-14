@@ -54,6 +54,24 @@
       "order_inferred": false,
       "commit": "ee5ec9de6d81b639443fe33271ab67c0027ee9c0",
       "published_at": "2026-08-07T09:13:31"
+    },
+    "18-ago-pauta-consolidar": {
+      "folder": "18-ago - Pauta consolidar",
+      "slug": "18-ago-pauta-consolidar",
+      "date": "2026-08-18",
+      "title": "Pauta consolidar",
+      "slide_count": 6,
+      "urls": [
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/18-ago-pauta-consolidar/slide_01.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/18-ago-pauta-consolidar/slide_02.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/18-ago-pauta-consolidar/slide_03.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/18-ago-pauta-consolidar/slide_04.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/18-ago-pauta-consolidar/slide_05.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/18-ago-pauta-consolidar/slide_06.jpg"
+      ],
+      "order_inferred": false,
+      "commit": "ebe9f580d1d3efa52c68dbf11ff38925f25bb723",
+      "published_at": "2026-08-14T10:10:07"
     }
   }
 }
