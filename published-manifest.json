@@ -72,6 +72,19 @@
       "order_inferred": false,
       "commit": "ebe9f580d1d3efa52c68dbf11ff38925f25bb723",
       "published_at": "2026-08-14T10:10:07"
+    },
+    "19-ago-tu-creativo-segmentacion": {
+      "folder": "19-ago - Tu creativo segmentación",
+      "slug": "19-ago-tu-creativo-segmentacion",
+      "date": "2026-08-19",
+      "title": "Tu creativo segmentación",
+      "slide_count": 1,
+      "urls": [
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/19-ago-tu-creativo-segmentacion/slide_01.jpg"
+      ],
+      "order_inferred": false,
+      "commit": "af1cb58f069666313aba6dc79f25e095a3f729aa",
+      "published_at": "2026-08-16T12:19:18"
     }
   }
 }
