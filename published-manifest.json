@@ -85,6 +85,55 @@
       "order_inferred": false,
       "commit": "af1cb58f069666313aba6dc79f25e095a3f729aa",
       "published_at": "2026-08-16T12:19:18"
+    },
+    "25-ago-9-variaciones-de-un-anuncio-con-ia": {
+      "folder": "25-ago - 9 variaciones de un anuncio con IA",
+      "slug": "25-ago-9-variaciones-de-un-anuncio-con-ia",
+      "date": "2026-08-25",
+      "title": "9 variaciones de un anuncio con IA",
+      "slide_count": 6,
+      "urls": [
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/25-ago-9-variaciones-de-un-anuncio-con-ia/slide_01.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/25-ago-9-variaciones-de-un-anuncio-con-ia/slide_02.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/25-ago-9-variaciones-de-un-anuncio-con-ia/slide_03.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/25-ago-9-variaciones-de-un-anuncio-con-ia/slide_04.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/25-ago-9-variaciones-de-un-anuncio-con-ia/slide_05.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/25-ago-9-variaciones-de-un-anuncio-con-ia/slide_06.jpg"
+      ],
+      "order_inferred": false,
+      "commit": "c119540ac3f45fd61fdfd511b5955ab1b89516fa",
+      "published_at": "2026-08-21T14:10:46"
+    },
+    "27-ago-hice-una-app-sin-saber-programar": {
+      "folder": "27-ago - Hice una app sin saber programar",
+      "slug": "27-ago-hice-una-app-sin-saber-programar",
+      "date": "2026-08-27",
+      "title": "Hice una app sin saber programar",
+      "slide_count": 6,
+      "urls": [
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/27-ago-hice-una-app-sin-saber-programar/slide_01.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/27-ago-hice-una-app-sin-saber-programar/slide_02.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/27-ago-hice-una-app-sin-saber-programar/slide_03.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/27-ago-hice-una-app-sin-saber-programar/slide_04.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/27-ago-hice-una-app-sin-saber-programar/slide_05.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/27-ago-hice-una-app-sin-saber-programar/slide_06.jpg"
+      ],
+      "order_inferred": false,
+      "commit": "77fef4379291bb316f1f7f15280bcaa62f062b16",
+      "published_at": "2026-08-21T14:10:50"
+    },
+    "27-ago-la-ia-no-te-quita-el-trabajo-si-sabes-dirigirla": {
+      "folder": "27-ago - La IA no te quita el trabajo si sabes dirigirla",
+      "slug": "27-ago-la-ia-no-te-quita-el-trabajo-si-sabes-dirigirla",
+      "date": "2026-08-27",
+      "title": "La IA no te quita el trabajo si sabes dirigirla",
+      "slide_count": 1,
+      "urls": [
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/27-ago-la-ia-no-te-quita-el-trabajo-si-sabes-dirigirla/slide_01.jpg"
+      ],
+      "order_inferred": false,
+      "commit": "b5282988f39aabcf3870bb8dfed0cd36ac2bb741",
+      "published_at": "2026-08-21T14:10:54"
     }
   }
 }
