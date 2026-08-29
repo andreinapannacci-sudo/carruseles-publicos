@@ -134,6 +134,55 @@
       "order_inferred": false,
       "commit": "b5282988f39aabcf3870bb8dfed0cd36ac2bb741",
       "published_at": "2026-08-21T14:10:54"
+    },
+    "01-sep-mapa-niveles-web": {
+      "folder": "01-sep - Mapa niveles web",
+      "slug": "01-sep-mapa-niveles-web",
+      "date": "2026-09-01",
+      "title": "Mapa niveles web",
+      "slide_count": 6,
+      "urls": [
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/01-sep-mapa-niveles-web/slide_01.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/01-sep-mapa-niveles-web/slide_02.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/01-sep-mapa-niveles-web/slide_03.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/01-sep-mapa-niveles-web/slide_04.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/01-sep-mapa-niveles-web/slide_05.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/01-sep-mapa-niveles-web/slide_06.jpg"
+      ],
+      "order_inferred": false,
+      "commit": "309cdcd80287ce04beaf0e86ee65123b8653cb5e",
+      "published_at": "2026-08-28T23:27:50"
+    },
+    "03-sep-flujo-vende-solo": {
+      "folder": "03-sep - Flujo vende solo",
+      "slug": "03-sep-flujo-vende-solo",
+      "date": "2026-09-03",
+      "title": "Flujo vende solo",
+      "slide_count": 6,
+      "urls": [
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/03-sep-flujo-vende-solo/slide_01.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/03-sep-flujo-vende-solo/slide_02.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/03-sep-flujo-vende-solo/slide_03.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/03-sep-flujo-vende-solo/slide_04.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/03-sep-flujo-vende-solo/slide_05.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/03-sep-flujo-vende-solo/slide_06.jpg"
+      ],
+      "order_inferred": false,
+      "commit": "2b5aa4c0d48d4d8ab70a151913c08e5893cdd0e5",
+      "published_at": "2026-08-28T23:27:53"
+    },
+    "03-sep-notif-venta-sistema": {
+      "folder": "03-sep - Notif venta sistema",
+      "slug": "03-sep-notif-venta-sistema",
+      "date": "2026-09-03",
+      "title": "Notif venta sistema",
+      "slide_count": 1,
+      "urls": [
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/03-sep-notif-venta-sistema/slide_01.jpg"
+      ],
+      "order_inferred": false,
+      "commit": "6419d38edf599570fa399a0eaefe6cfefd6fd3ee",
+      "published_at": "2026-08-28T23:27:56"
     }
   }
 }
