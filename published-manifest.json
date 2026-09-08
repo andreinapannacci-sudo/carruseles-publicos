@@ -183,6 +183,37 @@
       "order_inferred": false,
       "commit": "6419d38edf599570fa399a0eaefe6cfefd6fd3ee",
       "published_at": "2026-08-28T23:27:56"
+    },
+    "12-sep-ser-mama-100-pestanas-mentales": {
+      "folder": "12-sep - Ser mama 100 pestanas mentales",
+      "slug": "12-sep-ser-mama-100-pestanas-mentales",
+      "date": "2026-09-12",
+      "title": "Ser mama 100 pestanas mentales",
+      "slide_count": 1,
+      "urls": [
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/12-sep-ser-mama-100-pestanas-mentales/slide_01.jpg"
+      ],
+      "order_inferred": false,
+      "commit": "6a31c76bf0d2e6a84736b490a1077ce3cef1d6eb",
+      "published_at": "2026-09-08T14:52:01"
+    },
+    "19-sep-no-tienes-que-dejar-tu-sueldo": {
+      "folder": "19-sep - No tienes que dejar tu sueldo",
+      "slug": "19-sep-no-tienes-que-dejar-tu-sueldo",
+      "date": "2026-09-19",
+      "title": "No tienes que dejar tu sueldo",
+      "slide_count": 6,
+      "urls": [
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/19-sep-no-tienes-que-dejar-tu-sueldo/slide_01.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/19-sep-no-tienes-que-dejar-tu-sueldo/slide_02.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/19-sep-no-tienes-que-dejar-tu-sueldo/slide_03.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/19-sep-no-tienes-que-dejar-tu-sueldo/slide_04.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/19-sep-no-tienes-que-dejar-tu-sueldo/slide_05.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/19-sep-no-tienes-que-dejar-tu-sueldo/slide_06.jpg"
+      ],
+      "order_inferred": false,
+      "commit": "67a5684195703bef713f150b44e57bc9c1612866",
+      "published_at": "2026-09-08T14:52:05"
     }
   }
 }
