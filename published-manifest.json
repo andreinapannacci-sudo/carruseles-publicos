@@ -214,6 +214,37 @@
       "order_inferred": false,
       "commit": "67a5684195703bef713f150b44e57bc9c1612866",
       "published_at": "2026-09-08T14:52:05"
+    },
+    "03-oct-vender-sin-mostrar-la-cara-5-piezas": {
+      "folder": "03-oct - Vender sin mostrar la cara 5 piezas",
+      "slug": "03-oct-vender-sin-mostrar-la-cara-5-piezas",
+      "date": "2026-10-03",
+      "title": "Vender sin mostrar la cara 5 piezas",
+      "slide_count": 6,
+      "urls": [
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/03-oct-vender-sin-mostrar-la-cara-5-piezas/slide_01.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/03-oct-vender-sin-mostrar-la-cara-5-piezas/slide_02.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/03-oct-vender-sin-mostrar-la-cara-5-piezas/slide_03.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/03-oct-vender-sin-mostrar-la-cara-5-piezas/slide_04.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/03-oct-vender-sin-mostrar-la-cara-5-piezas/slide_05.jpg",
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/03-oct-vender-sin-mostrar-la-cara-5-piezas/slide_06.jpg"
+      ],
+      "order_inferred": false,
+      "commit": "6d3f06ca555f161d7556a4181e3b00b9d4aceceb",
+      "published_at": "2026-09-22T23:26:09"
+    },
+    "26-sep-descansar-no-es-egoismo": {
+      "folder": "26-sep - Descansar no es egoismo",
+      "slug": "26-sep-descansar-no-es-egoismo",
+      "date": "2026-09-26",
+      "title": "Descansar no es egoismo",
+      "slide_count": 1,
+      "urls": [
+        "https://raw.githubusercontent.com/andreinapannacci-sudo/carruseles-publicos/main/26-sep-descansar-no-es-egoismo/slide_01.jpg"
+      ],
+      "order_inferred": true,
+      "commit": "ca71fbf29b2e7903ea483b9a3c314dfa637810e4",
+      "published_at": "2026-09-22T23:26:12"
     }
   }
 }
